@@ -137,7 +137,7 @@
     "price": null,
     "link": "https://www.leboncoin.fr/ad/motos/3162703113",
     "image": "assets/img/vehicules/14-tiger-900-rally-pro.jpeg",
-    "featured": true
+    "featured": false
   },
   {
     "id": 15,
@@ -147,7 +147,7 @@
     "price": null,
     "link": "https://www.leboncoin.fr/ad/motos/3177164731",
     "image": "assets/img/vehicules/15-daytona-765-moto2.jpeg",
-    "featured": false
+    "featured": true
   },
   {
     "id": 16,
