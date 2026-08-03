@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "PANIGALE V4 LAMBORGHINI",
+    "subtitle": "Véritable pièce de collection issue de la collaboration la plus exclusive jamais réalisée entre les deux marques italiennes.",
+    "status": "sur_demande",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3180650779",
+    "image": "assets/img/vehicules/01-panigale-v4-lamborghini.jpeg",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "KTM RC8C",
+    "subtitle": "KTM RC8C #004/200 🏁 149 ch pour 142 kg, électronique Kramer complète et préparation Xtrem Motor Racing. Une vraie machine de course pensée pour le trackday ultime.",
+    "status": "disponible",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3192634389",
+    "image": "assets/img/vehicules/02-ktm-rc8c.jpeg",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "BMW F900R A2",
+    "subtitle": "🏍️ F900 R A2 2023 – 9 500 km – Full Options Un roadster moderne, performant et polyvalent, reconnu pour son excellent compromis entre sportivité, confort et facilité d’utilisation.",
+    "status": "disponible",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3207309168",
+    "image": "assets/img/vehicules/03-bmw-f900r-a2.jpeg",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "BMW M1000R",
+    "subtitle": "210 ch, équipements M Performance, échappement SC Project et nombreuses pièces carbone. L’un des hyper roadsters les plus performants du marché !",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3207343701",
+    "image": "assets/img/vehicules/04-bmw-m1000r.jpeg",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "STREETFIGHTER SP2",
+    "subtitle": "Ducati Streetfighter V4 SP2, version la plus exclusive et radicale de la gamme : jantes carbones, embrayage à sec STM, etc. Le dernier monobras a seulement 2500 kms !",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3186702025",
+    "image": "assets/img/vehicules/05-streetfighter-sp2.jpeg",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "R1M",
+    "subtitle": "R1M de seulement 2200 km, très peu utilisée par sa propriétaire, une opportunité rare dans cet état avec un demi ligne ARROW Titane !",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3155997406",
+    "image": "assets/img/vehicules/06-r1m.jpeg",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "PANIGALE V2 BULEGA REPLICA",
+    "subtitle": "Produite à seulement 111 exemplaires, la Panigale V2 Bulega World Champion Replica est déjà l’une des Ducati modernes les plus rares et désirables jamais commercialisées. Celle-ci est la seule au monde à vendre !",
+    "status": "sur_demande",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3193480891",
+    "image": "assets/img/vehicules/07-panigale-v2-bulega-replica.jpeg",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "BMW 1250 GSA",
+    "subtitle": "Préparation unique Full Black, 1ère main, 143ch, équipement premium, entretien BMW, configuration exceptionnelle, aucun frais à prévoir.",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3181240208",
+    "image": "assets/img/vehicules/08-bmw-1250-gsa.jpeg",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "title": "TRIUMPH SPEED TRIPLE RS",
+    "subtitle": "Triumph Speed Triple 1200 RS 🇬🇧 180 ch, suivi Triumph complet, SC-Project carbone et configuration premium Öhlins / Brembo. Une machine aussi efficace que désirable.",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3193210481",
+    "image": "assets/img/vehicules/09-triumph-speed-triple-rs.jpeg",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "title": "BMW F900R",
+    "subtitle": "F900R : polyvalence, confort et sportivité réunis dans un roadster signé BMW",
+    "status": "disponible",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3162730591",
+    "image": "assets/img/vehicules/10-bmw-f900r.jpeg",
+    "featured": false
+  },
+  {
+    "id": 11,
+    "title": "DUCATI Streetfighter V4S 2023",
+    "subtitle": "Moto exceptionnelle, rare dans cette configuration unique. Ligne Akrapovic haute et toutes options en carbone.",
+    "status": "disponible",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3152759120",
+    "image": "assets/img/vehicules/11-ducati-streetfighter-v4s-2023.jpeg",
+    "featured": false
+  },
+  {
+    "id": 12,
+    "title": "PANIGALE 1199 S",
+    "subtitle": "Ducati Panigale 1199 S, origine Suisse, entretien Ducati Genève, historique limpide, équipements carbone, moto saine, disponible avec dossier complet.",
+    "status": "disponible",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3181273290",
+    "image": "assets/img/vehicules/12-panigale-1199-s.jpeg",
+    "featured": false
+  },
+  {
+    "id": 13,
+    "title": "PORSCHE 944 TURBO",
+    "subtitle": "944 Turbo 1989, configuration recherchée, avec historique clair, classeur de factures et faible roulage sur les 10 dernières années.",
+    "status": "disponible",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/voitures/3127960162",
+    "image": "assets/img/vehicules/13-porsche-944-turbo.jpeg",
+    "featured": false
+  },
+  {
+    "id": 14,
+    "title": "TIGER 900 RALLY PRO",
+    "subtitle": "Tiger 900 Rally Pro finition Sand Storm, toujours stockée en garage, jamais chutée, aucun défaut. Version la plus équipée de la gamme. Moins de 4000 kms.",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3162703113",
+    "image": "assets/img/vehicules/14-tiger-900-rally-pro.jpeg",
+    "featured": false
+  },
+  {
+    "id": 15,
+    "title": "DAYTONA 765 MOTO2",
+    "subtitle": "Modèle d’exception directement dérivé du Moto2, cette Daytona 765 a été produite à seulement 765 exemplaires dans le monde. Une véritable pièce de collection.",
+    "status": "sur_demande",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3177164731",
+    "image": "assets/img/vehicules/15-daytona-765-moto2.jpeg",
+    "featured": false
+  },
+  {
+    "id": 16,
+    "title": "BENTLEY GTC V8S",
+    "subtitle": "Cette Bentley Continental GTC V8 S est une véritable version MULLINER, reconnaissable par son niveau de finition supérieur et son attention portée aux détails. Une configuration idéale pour profiter du cabriolet aussi bien en cruising qu’en conduite plus dynamique.",
+    "status": "disponible",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/voitures/3159194722",
+    "image": "assets/img/vehicules/16-bentley-gtc-v8s.jpeg",
+    "featured": false
+  },
+  {
+    "id": 17,
+    "title": "HP4 RACE",
+    "subtitle": "Une véritable machine de course, pensée exclusivement pour la piste, produite en édition limitée à 750 exemplaires. Son ADN est clair : recherche absolue de légèreté et d’efficacité, avec un cadre monocoque 100 % carbone et des jantes carbone.",
+    "status": "sur_demande",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3138432926",
+    "image": "assets/img/vehicules/17-hp4-race.jpeg",
+    "featured": false
+  },
+  {
+    "id": 18,
+    "title": "DUCATI MONSTER 1200 R",
+    "subtitle": "Magnifique Ducati 1200 R en excellent état, exclusive et parfaitement entretenue. Prête à vous procurer des sensations exceptionnelles !",
+    "status": "disponible",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3155314535",
+    "image": "assets/img/vehicules/18-ducati-monster-1200-r.jpeg",
+    "featured": false
+  },
+  {
+    "id": 19,
+    "title": "CBR 600 RR 2024",
+    "subtitle": "CBR 600 RR 2024 full config, MIVV carbone et détails Rizoma : look affûté, sonorité sportive, machine prête à attaquer.",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3161192058",
+    "image": "assets/img/vehicules/19-cbr-600-rr-2024.jpeg",
+    "featured": false
+  },
+  {
+    "id": 20,
+    "title": "BMW 1200 GSA",
+    "subtitle": "1ère main et 31 000 km seulement packs Touring/Dynamic/Confort et bagagerie aluminium BMW complète. Une GSA prête à repartir pour de grands voyages.",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3186757630",
+    "image": "assets/img/vehicules/20-bmw-1200-gsa.jpeg",
+    "featured": false
+  },
+  {
+    "id": 21,
+    "title": "Ducati Multistrada V4 Pikes Peak",
+    "subtitle": "Full carbone – Full Öhlins – entretien irréprochable et garantie constructeur fin 2026 Bagagerie complète, prête à rouler en solo comme en duo.",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3154183415",
+    "image": "assets/img/vehicules/21-ducati-multistrada-v4-pikes-peak.jpeg",
+    "featured": false
+  },
+  {
+    "id": 22,
+    "title": "BMW GS 1200 TRIPLE BLACK",
+    "subtitle": "Moto en configuration très recherchée Triple Black, avec un niveau d’équipement complet et un suivi BMW exemplaire. Difficile à trouver dans cet état avec autant d’options. Tous les packs.",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3168757132",
+    "image": "assets/img/vehicules/22-bmw-gs-1200-triple-black.jpg",
+    "featured": false
+  },
+  {
+    "id": 23,
+    "title": "PANIGALE V2 FINALE EDITION",
+    "subtitle": "Panigale V2 Final Edition : rare, numérotée, radicale une Ducati déjà mythique.",
+    "status": "sur_demande",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3154925507",
+    "image": "assets/img/vehicules/23-panigale-v2-finale-edition.jpeg",
+    "featured": false
+  },
+  {
+    "id": 24,
+    "title": "HONDA VTR SP1",
+    "subtitle": "Moto mythique du début des années 2000, développée par Honda pour l’homologation en Superbike ! Etat Exceptionnel et configuration d’époque unique avec cette ligne Akrapovic !",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3158655535",
+    "image": "assets/img/vehicules/24-honda-vtr-sp1.jpeg",
+    "featured": false
+  },
+  {
+    "id": 25,
+    "title": "RSV4 FACTORY 2019",
+    "subtitle": "Aprilia RSV4 Factory 2019 1100, full Öhlins mécaniques : une superbike d’exception au châssis chirurgical et aux performances radicales.",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3154575601",
+    "image": "assets/img/vehicules/25-rsv4-factory-2019.jpeg",
+    "featured": false
+  },
+  {
+    "id": 26,
+    "title": "RS6 C7",
+    "subtitle": "RS6 2014 Daytona Grey Mat, avec pack carbone intérieur/extérieur : l’alliance parfaite entre performances extrêmes et raffinement Audi.",
+    "status": "vendue",
+    "price": null,
+    "link": null,
+    "image": "assets/img/vehicules/26-rs6-c7.jpeg",
+    "featured": false
+  },
+  {
+    "id": 27,
+    "title": "BMW 1200 GSA FULL OPTIONS",
+    "subtitle": "Moto suivie avec très peu de kilomètres et configuration très recherchée sur le marché de la GS Adventure, difficile à retrouver aussi complète dans cet état.",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3155254091",
+    "image": "assets/img/vehicules/27-bmw-1200-gsa-full-options.jpeg",
+    "featured": false
+  },
+  {
+    "id": 28,
+    "title": "KTM 690 SMCR",
+    "subtitle": "KTM 690 SMCR en configuration haut de gamme : fun extrême, agilité folle et caractère Ready To Race.",
+    "status": "vendue",
+    "price": null,
+    "link": null,
+    "image": "assets/img/vehicules/28-ktm-690-smcr.jpeg",
+    "featured": false
+  },
+  {
+    "id": 29,
+    "title": "CBR 500 R 2023",
+    "subtitle": "CBR 500 R en état proche du neuf avec pot Arrow : look affûté, sonorité sportive et fiabilité Honda. Seulement 6100 km",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3150777354",
+    "image": "assets/img/vehicules/29-cbr-500-r-2023.jpeg",
+    "featured": false
+  },
+  {
+    "id": 30,
+    "title": "BONNEVILLE SPEEDMASTER",
+    "subtitle": "Moto achetée neuve chez Triumph Aix-les-Bains. Entretien exclusivement réalisé dans le réseau Triumph (factures disponibles).",
+    "status": "vendue",
+    "price": null,
+    "link": "https://www.leboncoin.fr/ad/motos/3161214431",
+    "image": "assets/img/vehicules/30-bonneville-speedmaster.jpeg",
+    "featured": false
+  }
+]
